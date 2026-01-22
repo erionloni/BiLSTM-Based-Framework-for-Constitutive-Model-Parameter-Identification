@@ -1,1 +1,0 @@
-# BiLSTM-Based-Framework-for-Constitutive-Model-Parameter-Identification
