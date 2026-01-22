@@ -37,5 +37,5 @@ See [`README/`](README/) for complete technical documentation and user guide.
 
 - Prof. Hans-Andrea Loeliger (ISI, ETH Zurich)
 - Dr. Ehsan Hosseini (Empa)
-- Haotian Xu
+- Haotian Xu (Empa)
 
