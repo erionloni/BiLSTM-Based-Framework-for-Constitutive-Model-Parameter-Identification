@@ -1,4 +1,4 @@
-# BiLSTM-Based Parameter Identification for Viscoelastic Materials
+# BiLSTM-Based-Framework-for-Constitutive-Model-Parameter-Identification
 
 [![ETH Zurich](https://img.shields.io/badge/ETH-Zurich-blue)](https://ethz.ch)
 [![Empa](https://img.shields.io/badge/Empa-Collaboration-green)](https://www.empa.ch)
